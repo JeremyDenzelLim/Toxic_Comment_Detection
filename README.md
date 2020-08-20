@@ -29,5 +29,6 @@ https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
 6) Project Presentation can be viewed here as well: 
 https://docs.google.com/presentation/d/1EzpzLbPoL5MshRc0AF39qc55K7nkMzgJUPaFm7KuPBY/edit?usp=sharing
 
-7) 
+7. Please generate and insert your own Telegram Bot Token in the
+   Telegram Bot Code
 
